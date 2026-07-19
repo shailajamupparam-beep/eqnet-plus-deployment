@@ -1,0 +1,1 @@
+NUM_STRATEGIES = 5
