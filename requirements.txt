@@ -2,3 +2,5 @@
 torch==2.2.1+cpu
 torchvision==0.17.1+cpu
 torchaudio==2.2.1+cpu
+uvicorn==0.27.1
+fastapi==0.110.0
